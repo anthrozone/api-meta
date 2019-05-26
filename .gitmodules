@@ -1,0 +1,6 @@
+[submodule "auth"]
+	path = auth
+	url = git@gitlab.com:anthrozone/auth.git
+[submodule "blog"]
+	path = blog
+	url = git@gitlab.com:anthrozone/blog.git
